@@ -8,7 +8,6 @@
 
 ### Reach out to me!
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />][twitter]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 
@@ -32,6 +31,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdrhnucr&layout=compact" >
 </details>
 
-[instagram]: https://www.instagram.com/kadirhan_ucar7/
 [twitter]: https://twitter.com/UcarKadirhan
 [linkedin]: https://www.linkedin.com/in/kadirhan-ucar-b53a9620a/
