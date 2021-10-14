@@ -27,7 +27,7 @@
 <br />
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>GitHub Stats</summary>
 
   <img align="left" alt="kdrhnucr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kdrhnucr&theme=dark&show_icons=true" />
 
