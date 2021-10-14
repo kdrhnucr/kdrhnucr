@@ -29,7 +29,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Kadirhan Ucar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kdrhnucr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Kadirhan Ucar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kdrhnucr&theme=dark&show_icons=true" />
 
 </details>
 
