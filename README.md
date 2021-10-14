@@ -12,6 +12,13 @@
     <img src="https://img.shields.io/twitter/follow/UcarKadirhan?style=social" />
   </a>
 </p>
+### Reach out to me!
+
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />][twitter]
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
+
+<br />
+<br />
 
 <p align="center">
   <img width="60%" src="![Kadirhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdrhnucr&theme=dark&show_icons=true)" />
