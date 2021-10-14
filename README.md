@@ -1,6 +1,6 @@
-### Hi there, I'm Kadirhan Ucar [kdrhnucr][website] 👋
+### Hi there, I'm Kadirhan Ucar 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=kdrhnucr.github.io&style=for-the-badge&url=https%3A%2F%2Fkdrhnucr.github.io)](https://kdrhnucr.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Bug Bounty Hunter!
