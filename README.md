@@ -1,23 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Kadirhan Ucar</h1>
+<h3 align="center">I am Kadirhan Ucar. I am interested in Bug Bounty. Also, I am interested in Cyber Security.</h3>
 
-<p align="center"><b>I am Kadirhan Ucar</b>. I am interested in Bug Bounty. Also, I am interested in Cyber Security.</p>
-<p align="center">
-  I have a Bugcrowd account, check it out: <a href="https://bugcrowd.com/kdrhnucr">My Bugcrowd account</a><br/>
-  I have a HackerOne account, check it out: <a href="https://hackerone.com/kdrhnucr">My HackerOne account</a>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/kdrhnucr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kdrhnucr" height="30" width="40" /></a>
+<a href="https://twitter.com/ucarkadirhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ucarkadirhan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kadirhan-ucar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kadirhan-ucar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16999922" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16999922" height="30" width="40" /></a>
+</p>
 
-### Reach out to me!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="center" />][twitter]
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="center" />][linkedin]
-
-<br />
-<br />
-
-<details>
-<summary>:white_small_square: My Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=kdrhnucr&theme=" >
-</details>
-
-[twitter]: https://twitter.com/UcarKadirhan
-[linkedin]: https://www.linkedin.com/in/kadirhan-ucar-b53a9620a/
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kdrhnucr&show_icons=true&locale=en" alt="kdrhnucr" /></p>
