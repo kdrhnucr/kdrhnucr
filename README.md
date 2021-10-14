@@ -15,7 +15,7 @@
 [<img align="left" alt="kadirhan-ucar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.18.0/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="kdrhnucr | Bugcrowd" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.18.0/icons/bugcrowd.svg" />][bugcrowd]
 [<img align="left" alt="kdrhnucr | Hackerone" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.18.0/icons/hackerone.svg" />][hackerone]
-[<img align="left" alt="kdrhnucr | Hackerone" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.18.0/icons/intigriti.svg />][intigriti]
+[<img align="left" alt="kdrhnucr | Hackerone" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.18.0/icons/intigriti.svg" />][intigriti]
 
 <br />
 
