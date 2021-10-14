@@ -6,7 +6,7 @@
 ## I'm a Bug Bounty Hunter!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
+- I’m currently learning everything 🤣
 
 ### Connect with me:
 
