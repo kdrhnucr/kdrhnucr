@@ -14,5 +14,6 @@
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=kdrhnucr&show_icons=true&theme=tokyonight" />
+  <img width="60%" src="![Kadirhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdrhnucr&theme=dark&show_icons=true)" />
+
 </p>
