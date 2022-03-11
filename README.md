@@ -5,7 +5,7 @@
 
 ## I'm a Bug Bounty Hunter!
 
-- I'm new to bug bounty hunting!
+- I'm new to cyber security!
 - I’m currently learning everything 🤣
 
 ### Connect with me:
